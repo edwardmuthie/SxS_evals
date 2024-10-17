@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 const Homepage = () => {
   return (
     <div>
-      <h1>Welcome to the Homepage!</h1>
+      <h1>Welcome to the Homepage!!</h1>
     </div>
   );
 };
